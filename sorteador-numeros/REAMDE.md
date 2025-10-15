@@ -37,10 +37,11 @@ Durante o desenvolvimento deste projeto, pratiquei:
 
 ## 📬 Contato
 
-- 💼 [Meu LinkedIn](https://www.linkedin.com/in/gustavo-santana-03/  
+- 💼 [Meu LinkedIn]https://www.linkedin.com/in/gustavo-santana-1651081a9/
 - 📧 E-mail: **ribeiro99.gg@gmail.com**
 
 ---
 
 ✨ *Desenvolvido com dedicação por Gustavo Santana.*
+
 
